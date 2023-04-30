@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\bin\Debug\Exam03Project.exe.config
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\bin\Debug\Exam03Project.exe
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\bin\Debug\Exam03Project.pdb
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\obj\Debug\Exam03Project.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\obj\Debug\Exam03Project.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\obj\Debug\Exam03Project.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\obj\Debug\Exam03Project.exe
+D:\R54\M2\Projects\8\Exam03Project\Exam03Project\obj\Debug\Exam03Project.pdb
